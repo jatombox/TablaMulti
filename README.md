@@ -1,2 +1,2 @@
 # TablaMulti
-tabal de multiplicar en Python
+tabla de multiplicar en Python
